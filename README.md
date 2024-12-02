@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently learning: Data Structures and Algorithms on LeetCode 
 
-- 👨‍🎓 I'm a Engineering Engineering Student
+- 👨‍🎓 I'm an Engineering Engineering Student
 
 - 📫 How to reach me **kushwahajatin0203@gmail.com**
 
