@@ -33,7 +33,7 @@
 <p >
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/sql-%23000.svg?style=flat&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
@@ -66,8 +66,6 @@
 </p>
 
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jatin kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jatin kushwaha" height="30" width="40" /></a>
@@ -77,12 +75,11 @@
 <a href="https://medium.com/@jatin kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jatin kushwaha" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/jatin kushwah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jatin kushwah" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jatin kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jatin kushwaha" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/jatin kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="jatin kushwaha" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerearth.com/jatin kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="jatin kushwaha" height="30" width="40" /></a> -->
 <a href="https://auth.geeksforgeeks.org/user/jatinkushcjem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jatinkushcjem" height="30" width="40" /></a>
 </p>
 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jk319" alt="jk319" /></a> </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jk319&show_icons=true&locale=en&layout=compact" alt="jk319" /></p>
 
