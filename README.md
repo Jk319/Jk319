@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN, Data Structures and Algorithms**
 
-- All of my projects are available at 
+- All of my projects are available at https://github.com/Jk319
 
 - 💬 Ask me about anything, I am happy to help **Data Science,Machine Learning,**
 
