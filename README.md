@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jk319&label=Profile%20views&color=0e75b6&style=flat" alt="jk319" /> </p>
 
-- 🌱 I’m currently learning **MERN, Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+
+<!-- - 🌱 I’m currently learning **MERN, Data Structures and Algorithms** -->
 
 - All of my projects are available at https://github.com/Jk319
 
