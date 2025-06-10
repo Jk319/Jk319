@@ -11,7 +11,7 @@
 
 - All of my projects are available at https://github.com/Jk319
 
-- 💬 Ask me about anything, I am happy to help **Data Science,Machine Learning,**
+- 💬 Ask me about anything, about **Data Science,Machine Learning,**
 
 - 📫 How to reach me **kushwahajatin0203@gmail.com**
 
