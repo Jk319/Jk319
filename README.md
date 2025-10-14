@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences https://www.linkedin.com/in/jatin-kushwaha/
 
-- ⚡ Fun fact **LEETCODE**
+- ⚡ Fun fact **Love to pass test cases**
 
  
 <p align="left"> <a href="https://twitter.com/jatin kushwaha" target="blank"><img src="https://img.shields.io/twitter/follow/jatin kushwaha?logo=twitter&style=for-the-badge" alt="jatin kushwaha" /></a> </p>
