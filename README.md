@@ -12,7 +12,7 @@
 
 - All of my projects are available at https://github.com/Jk319
 
-- 💬 Ask me anything, about **Data Science, AI/ML/NLP,GenAI**
+- 💬 Ask me anything, about **Data Science, AI/ML/NLP, GenAI**
 
 - 📫 How to reach me **kushwahajatin0203@gmail.com**
 
