@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jatin Kushwaha</h1>
+<h1 align="center">Heyy 👋, I'm Jatin Kushwaha</h1>
 <h3 align="center">A passionate Data Science enthusiast and AI/ML, GenAI enthusiast ,from India</h3>
 
 
